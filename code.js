@@ -1,0 +1,1 @@
+console.log("It's my sample webpage", 2*3, 4-3+23);
