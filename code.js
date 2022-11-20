@@ -1,7 +1,10 @@
-var a=b=0;
-while(a<100){
-    b=a+a;
-    a++;
+var fullStackDeveloper= {
+    sTart: "FrontEnd",
+    intermediate: "React",
+    end: "MongoDB"
+
 }
-    console.log(b);
+for(var k in fullStackDeveloper){
+    console.log(k +" = "+ fullStackDeveloper.k);
+}
 
