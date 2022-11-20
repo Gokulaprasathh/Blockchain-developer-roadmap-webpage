@@ -1,1 +1,7 @@
-console.log("It's my sample webpage", 2*3, 4-3+23);
+var a=b=0;
+while(a<100){
+    b=a+a;
+    a++;
+}
+    console.log(b);
+
